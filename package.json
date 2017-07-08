@@ -1,0 +1,9 @@
+{
+  "name": "gl-react-native-view-texture",
+  "version": "1.0.0",
+  "description": "Provide a ViewTexture component that rasterize content to send to gl-react (using react-native-view-shot)",
+  "main": "index.js",
+  "repository": "https://github.com/gre/gl-react-native-view-texture",
+  "author": "Gaëtan Renaudeau",
+  "license": "MIT"
+}
